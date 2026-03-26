@@ -164,7 +164,8 @@ HW-383 relay is ACTIVE LOW:
 ## Project Structure
 
 ```
-esp32_greenhouse.ino    # Arduino firmware v7.0
+esp32_code/
+├── esp32_greenhouse.ino    # Arduino firmware v7.0
 greenhouse/
 ├── db.php                  # Database config, weather functions, thresholds
 ├── includes.php            # Shared CSS, navigation, status helper functions
@@ -181,10 +182,8 @@ greenhouse/
 ├── users.php               # Add / delete users, change role / password (owner only)
 ├── api.php                 # ESP32 HTTP POST endpoint — no session auth
 ├── setup_users.php         # One-time user seeding — DELETE AFTER USE
-├── PHP Mailer              # Mail Cofigure API Folder
-├── csv_upload              # Cloud communication files
-```
-
+├── PHP Mailer/             # Mail Cofigure API Folder
+├── csv_upload/             # Cloud communication files
 ---
 
 ## Database Setup
