@@ -1,0 +1,380 @@
+[2026-03-23 17:48:37] ===== Starting upload process =====
+[2026-03-23 17:48:37] CSV generated: greenhouse_log_2026-03-23_17-48-37.csv with 923 records
+[2026-03-23 17:48:37] Using HTTP upload for Windows environment
+[2026-03-23 17:48:38] HTTP upload failed (HTTP 404): <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[2026-03-23 17:48:38] ===== Upload process completed: FAILED =====
+[2026-03-23 18:16:12] ===== Starting upload process =====
+[2026-03-23 18:16:12] Removed old local file: greenhouse_log_2026-03-23_17-48-37.csv
+[2026-03-23 18:16:12] CSV generated: greenhouse_log_2026-03-23_18-16-12.csv with 1023 records
+[2026-03-23 18:16:12] Using HTTP upload for Windows environment
+[2026-03-23 18:16:13] HTTP upload failed (HTTP 404): <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:you@example.com" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:you@example.com">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">20.195.11.204</a><br />
+  <span>Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1</span>
+</address>
+</body>
+</html>
+
+
+[2026-03-23 18:16:13] ===== Upload process completed: FAILED =====
+[2026-03-23 18:19:59] ===== Starting upload process =====
+[2026-03-23 18:19:59] Removed old local file: greenhouse_log_2026-03-23_18-16-12.csv
+[2026-03-23 18:19:59] CSV generated: greenhouse_log_2026-03-23_18-19-59.csv with 1036 records
+[2026-03-23 18:19:59] Using HTTP upload for Windows environment
+[2026-03-23 18:20:00] HTTP upload failed (HTTP 404): <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:you@example.com" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:you@example.com">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">20.195.11.204</a><br />
+  <span>Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1</span>
+</address>
+</body>
+</html>
+
+
+[2026-03-23 18:20:00] ===== Upload process completed: FAILED =====
+[2026-03-23 18:23:19] ===== Starting upload process =====
+[2026-03-23 18:23:19] Removed old local file: greenhouse_log_2026-03-23_18-19-59.csv
+[2026-03-23 18:23:19] CSV generated: greenhouse_log_2026-03-23_18-23-19.csv with 1048 records
+[2026-03-23 18:23:19] Using HTTP upload for Windows environment
+[2026-03-23 18:23:20] HTTP upload failed (HTTP 404): <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:you@example.com" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:you@example.com">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">20.195.11.204</a><br />
+  <span>Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1</span>
+</address>
+</body>
+</html>
+
+
+[2026-03-23 18:23:20] ===== Upload process completed: FAILED =====
+[2026-03-23 19:05:28] ===== Starting upload process =====
+[2026-03-23 19:05:28] Removed old local file: greenhouse_log_2026-03-23_18-23-19.csv
+[2026-03-23 19:05:28] CSV generated: greenhouse_log_2026-03-23_19-05-28.csv with 1072 records
+[2026-03-23 19:05:28] Using HTTP upload for Windows environment
+[2026-03-23 19:05:29] HTTP upload failed (HTTP 404): <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:you@example.com" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:you@example.com">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">20.195.11.204</a><br />
+  <span>Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1</span>
+</address>
+</body>
+</html>
+
+
+[2026-03-23 19:05:29] ===== Upload process completed: FAILED =====
+[2026-03-23 19:11:35] ===== Starting upload process =====
+[2026-03-23 19:11:35] Removed old local file: greenhouse_log_2026-03-23_19-05-28.csv
+[2026-03-23 19:11:35] CSV generated: greenhouse_log_2026-03-23_19-11-35.csv with 1072 records
+[2026-03-23 19:11:35] Using HTTP upload for Windows environment
+[2026-03-23 19:11:35] HTTP upload failed (HTTP 404): <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:you@example.com" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:you@example.com">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">20.195.11.204</a><br />
+  <span>Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1</span>
+</address>
+</body>
+</html>
+
+
+[2026-03-23 19:11:35] ===== Upload process completed: FAILED =====
+[2026-03-23 19:42:16] ===== Starting upload process =====
+[2026-03-23 19:42:16] Removed old local file: greenhouse_log_2026-03-23_19-11-35.csv
+[2026-03-23 19:42:16] CSV generated: greenhouse_log_2026-03-23_19-42-16.csv with 1072 records
+[2026-03-23 19:42:16] Using HTTP upload for Windows environment
+[2026-03-23 19:42:17] HTTP upload failed (HTTP 404): <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:you@example.com" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:you@example.com">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">20.195.11.204</a><br />
+  <span>Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1</span>
+</address>
+</body>
+</html>
+
+
+[2026-03-23 19:42:17] ===== Upload process completed: FAILED =====
+[2026-03-23 19:42:27] ===== Starting upload process =====
+[2026-03-23 19:42:27] Removed old local file: greenhouse_log_2026-03-23_19-42-16.csv
+[2026-03-23 19:42:27] CSV generated: greenhouse_log_2026-03-23_19-42-27.csv with 1072 records
+[2026-03-23 19:42:27] Using HTTP upload for Windows environment
+[2026-03-23 19:42:28] HTTP upload failed (HTTP 404): <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:you@example.com" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:you@example.com">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">20.195.11.204</a><br />
+  <span>Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1</span>
+</address>
+</body>
+</html>
+
+
+[2026-03-23 19:42:28] ===== Upload process completed: FAILED =====
+[2026-03-23 20:01:24] ===== Starting upload process =====
+[2026-03-23 20:01:24] Removed old local file: greenhouse_log_2026-03-23_19-42-27.csv
+[2026-03-23 20:01:24] CSV generated: greenhouse_log_2026-03-23_20-01-24.csv with 1072 records
+[2026-03-23 20:01:24] Using HTTP upload for Windows environment
+[2026-03-23 20:01:24] HTTP upload successful - Response: {"success":true,"message":"CSV file received successfully","filename":"2026-03-23_21-01-25_DESKTOP-NDVOMAM.csv","size_kb":114.2300000000000039790393202565610408782958984375,"deleted_old":0}
+[2026-03-23 20:01:24] ===== Upload process completed: SUCCESS =====
+[2026-03-23 20:04:48] ===== Starting upload process =====
+[2026-03-23 20:04:49] Removed old local file: greenhouse_log_2026-03-23_20-01-24.csv
+[2026-03-23 20:04:49] CSV generated: greenhouse_log_2026-03-23_20-04-49.csv with 1072 records
+[2026-03-23 20:04:49] Using HTTP upload for Windows environment
+[2026-03-23 20:04:49] HTTP upload successful - Response: {"success":true,"message":"CSV file received successfully","filename":"2026-03-23_21-04-50_DESKTOP-NDVOMAM.csv","size_kb":114.2300000000000039790393202565610408782958984375,"deleted_old":1}
+[2026-03-23 20:04:49] ===== Upload process completed: SUCCESS =====
+[2026-03-23 21:33:18] ===== Starting upload process =====
+[2026-03-23 21:33:18] Removed old local file: greenhouse_log_2026-03-23_20-04-49.csv
+[2026-03-23 21:33:18] CSV generated: greenhouse_log_2026-03-23_21-33-18.csv with 1072 records
+[2026-03-23 21:33:18] Using HTTP upload for Windows environment
+[2026-03-23 21:33:18] HTTP upload successful - Response: {"success":true,"message":"CSV file received successfully","filename":"2026-03-23_22-33-19_DESKTOP-NDVOMAM.csv","size_kb":114.2300000000000039790393202565610408782958984375,"deleted_old":1}
+[2026-03-23 21:33:18] ===== Upload process completed: SUCCESS =====
